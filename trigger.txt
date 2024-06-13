@@ -1,1 +1,1 @@
-emqx/emqx:5.7.0 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/emqx/emqx:5.7.0
+emqx/emqx:5.7.0 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/emqx:5.7.0
