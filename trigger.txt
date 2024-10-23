@@ -4,3 +4,4 @@ mysql:5.7 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/mysql:5.7
 
 
 livekit/livekit-server:v1.8 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/livekit-server:v1.8
+
