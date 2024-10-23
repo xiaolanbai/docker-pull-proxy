@@ -1,3 +1,6 @@
 emqx/emqx:5.7.0 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/emqx:5.7.0
 golang:1.20-alpine registry.cn-hangzhou.aliyuncs.com/shuoshuo123/golang:1.20-alpine
 mysql:5.7 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/mysql:5.7
+
+
+livekit/livekit-server:v1.8 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/livekit-server:v1.8
