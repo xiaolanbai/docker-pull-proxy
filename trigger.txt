@@ -1,2 +1,1 @@
-
 jboss/drools-workbench:7.18.0.Final registry.cn-hangzhou.aliyuncs.com/shuoshuo123/drools-workbench:7.18.0.Final
