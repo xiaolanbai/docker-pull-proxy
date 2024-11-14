@@ -1,2 +1,2 @@
 
-jboss/drools-workbench:6.2.0.Final registry.cn-hangzhou.aliyuncs.com/shuoshuo123/jboss/drools-workbench:6.2.0.Final
+jboss/drools-workbench:6.2.0.Final registry.cn-hangzhou.aliyuncs.com/shuoshuo123/drools-workbench:6.2.0.Final
