@@ -6,4 +6,4 @@ mysql:5.7 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/mysql:5.7
 livekit/livekit-server:v1.8 registry.cn-hangzhou.aliyuncs.com/shuoshuo123/livekit-server:v1.8
 
 jboss/drools-workbench:7.17.0.Final registry.cn-hangzhou.aliyuncs.com/shuoshuo123/drools-workbench:7.17.0.Final
-
+jboss/drools-workbench-showcase:6.2.0.Final registry.cn-hangzhou.aliyuncs.com/shuoshuo123/drools-workbench-showcase:6.2.0.Final
