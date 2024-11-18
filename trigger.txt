@@ -1,1 +1,1 @@
-jboss/drools-workbench:6.3.0.Final registry.cn-hangzhou.aliyuncs.com/shuoshuo123/drools-workbench:6.3.0.Final
+redis:7.4.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:7.4.1
