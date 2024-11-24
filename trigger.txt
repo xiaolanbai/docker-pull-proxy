@@ -1,1 +1,1 @@
-redis:7.4.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:7.4.1
+tiangolo/nginx-rtmp:latest-2024-11-18 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/nginx-rtmp:latest-2024-11-18
