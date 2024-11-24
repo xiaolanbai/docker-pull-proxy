@@ -1,1 +1,1 @@
-tiangolo/nginx-rtmp:latest-2024-11-18 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/nginx-rtmp:latest-2024-11-18
+kurento/kurento-media-server:7 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/kurento-media-server:7
