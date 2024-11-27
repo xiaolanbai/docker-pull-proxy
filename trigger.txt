@@ -1,1 +1,1 @@
-kurento/kurento-media-server:7 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/kurento-media-server:7
+openjdk:8-jre registry.cn-hangzhou.aliyuncs.com/xiaolanbai/openjdk:8-jre
