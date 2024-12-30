@@ -1,1 +1,1 @@
-openjdk:8-jre registry.cn-hangzhou.aliyuncs.com/xiaolanbai/openjdk:8-jre
+zlmediakit/zlmediakit:master registry.cn-hangzhou.aliyuncs.com/xiaolanbai/zlmediakit:master
