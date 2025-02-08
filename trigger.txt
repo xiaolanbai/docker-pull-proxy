@@ -1,1 +1,1 @@
-redis:3.2.9 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:3.2.9
+nginx:1.12.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/nginx:1.12.2
