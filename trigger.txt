@@ -1,1 +1,1 @@
-mysql:5.6.38 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/mysql:5.6.38
+tomcat:8.5.6 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/tomcat:8.5.6
