@@ -1,2 +1,1 @@
-myscale/myscaledb:1.6.4 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify0151-myscaledb:1.6.4
-downloads.unstructured.io/unstructured-io/unstructured-api:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify0151-unstructured-api:latest
+mysql:5.6.38 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/mysql:5.6.38
