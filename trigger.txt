@@ -1,1 +1,1 @@
-tomcat:8.5.6 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/tomcat:8.5.6
+redis:3.2.9 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:3.2.9
