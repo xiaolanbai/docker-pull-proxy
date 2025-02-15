@@ -1,5 +1,1 @@
-getsentry/sentry:25.1.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/getsentry_sentry:25.1.0
-getsentry/snuba:25.1.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/getsentry_snuba:25.1.0
-getsentry/relay:25.1.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/getsentry_relay:25.1.0
-getsentry/symbolicator:25.1.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/getsentry_symbolicator:25.1.0
-getsentry/vroom:25.1.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/getsentry_vroom:25.1.0
+debian:bookworm-slim registry.cn-hangzhou.aliyuncs.com/xiaolanbai/debian:bookworm-slim
