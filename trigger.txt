@@ -1,1 +1,1 @@
-debian:bookworm-slim registry.cn-hangzhou.aliyuncs.com/xiaolanbai/debian:bookworm-slim
+altinity/clickhouse-server:23.8.11.29.altinitystable registry.cn-hangzhou.aliyuncs.com/xiaolanbai/altinity_clickhouse-server:23.8.11.29.altinitystable
