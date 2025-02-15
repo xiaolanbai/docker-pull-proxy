@@ -1,1 +1,2 @@
-altinity/clickhouse-server:23.8.11.29.altinitystable registry.cn-hangzhou.aliyuncs.com/xiaolanbai/altinity_clickhouse-server:23.8.11.29.altinitystable
+redis:6.2.14-alpine registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:6.2.14-alpine
+confluentinc/cp-kafka:7.6.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/confluentinc_cp-kafka:7.6.1
