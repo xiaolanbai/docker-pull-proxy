@@ -1,2 +1,1 @@
-redis:6.2.14-alpine registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:6.2.14-alpine
-confluentinc/cp-kafka:7.6.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/confluentinc_cp-kafka:7.6.1
+linuxserver/piwigo:15.4.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/piwigo:15.4.0
