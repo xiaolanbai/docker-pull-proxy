@@ -1,1 +1,1 @@
-linuxserver/piwigo:15.4.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/piwigo:15.4.0
+marvambass/svn-server:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/svn-server:latest
