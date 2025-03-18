@@ -1,5 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.4-local registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify101-dify-plugin-daemon:0.0.4-local
-langgenius/dify-api:1.0.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify101-dify-api:1.0.1
-langgenius/dify-web:1.0.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify101-dify-web:1.0.1
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify101-squid:latest
-nginx:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify101-nginx:latest
+wordpress:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/wordpress:latest
