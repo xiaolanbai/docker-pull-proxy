@@ -1,1 +1,1 @@
-wordpress:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/wordpress:latest
+node:16.20.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/node:16.20.2
