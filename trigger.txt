@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.5.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/nacos-server:v2.5.1
+rabbitmq:4.0.8-management registry.cn-hangzhou.aliyuncs.com/xiaolanbai/rabbitmq:4.0.8-management
