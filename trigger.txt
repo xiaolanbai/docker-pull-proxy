@@ -1,1 +1,1 @@
-getsentry/sentry:24.12.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/sentry:24.12.2
+postgres:15 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/postgres:15
