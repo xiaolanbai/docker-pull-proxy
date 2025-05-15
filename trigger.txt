@@ -1,1 +1,1 @@
-elasticsearch:9.0.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/elasticsearch:9.0.1
+python:3.9-slim-buster registry.cn-hangzhou.aliyuncs.com/xiaolanbai/python:3.9-slim-buster
