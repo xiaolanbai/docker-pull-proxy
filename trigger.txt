@@ -1,1 +1,1 @@
-debian:bookworm registry.cn-hangzhou.aliyuncs.com/xiaolanbai/debian:bookworm
+elasticsearch:9.0.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/elasticsearch:9.0.1
