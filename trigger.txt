@@ -1,1 +1,3 @@
-python:3.9-slim-buster registry.cn-hangzhou.aliyuncs.com/xiaolanbai/python:3.9-slim-buster
+langgenius/dify-api:1.4.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify-api:1.4.0
+langgenius/dify-web:1.4.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify-web:1.4.0
+langgenius/dify-plugin-daemon:0.0.10-local registry.cn-hangzhou.aliyuncs.com/xiaolanbai/dify-plugin-daemon:0.0.10-local
