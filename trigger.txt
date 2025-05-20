@@ -1,1 +1,13 @@
-linuxserver/libreoffice:7.6.7 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/libreoffice:7.6.7
+mongo:6.0.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/mongo:6.0.2  
+redis:7.0.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:7.0.0  
+bitnami/zookeeper:3.8 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/zookeeper:3.8  
+bitnami/kafka:3.5.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/kafka:3.5.1  
+minio/minio:RELEASE.2024-01-11T07-46-16Z registry.cn-hangzhou.aliyuncs.com/xiaolanbai/minio:RELEASE.2024-01-11T07-46-16Z  
+ghcr.io/openimsdk/openim-server:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/openim-server:latest  
+ghcr.io/openimsdk/openim-chat:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/openim-chat:latest  
+ghcr.io/openimsdk/openim-web:v3.5.0-docker registry.cn-hangzhou.aliyuncs.com/xiaolanbai/openim-web:v3.5.0-docker  
+ghcr.io/openimsdk/openim-admin:toc-base-open-docker.35 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/openim-admin:toc-base-open-docker.35  
+prom/prometheus:v2.48.1 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/prometheus:v2.48.1  
+prom/alertmanager:v0.26.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/alertmanager:v0.26.0  
+grafana/grafana:10.2.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/grafana:10.2.2  
+bitnami/node-exporter:1.7.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/node-exporter:1.7.0  
