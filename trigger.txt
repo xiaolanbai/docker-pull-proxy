@@ -1,1 +1,1 @@
-livekit/livekit-server:v1.9.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-server:v1.9.0
+livekit/generate:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-generate:latest
