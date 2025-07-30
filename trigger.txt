@@ -1,1 +1,1 @@
-livekit/generate:latest registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-generate:latest
+python:3.9-slim registry.cn-hangzhou.aliyuncs.com/xiaolanbai/python:3.9-slim
