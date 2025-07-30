@@ -1,1 +1,1 @@
-python:3.9-slim registry.cn-hangzhou.aliyuncs.com/xiaolanbai/python:3.9-slim
+redis:7.2-alpine registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:7.2-alpine
