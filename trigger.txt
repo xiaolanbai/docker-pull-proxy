@@ -1,1 +1,1 @@
-emqx:5.6-alpine registry.cn-hangzhou.aliyuncs.com/xiaolanbai/emqx:5.6-alpine
+emqx:5.8.7 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/emqx:5.8.7
