@@ -1,1 +1,1 @@
-emqx:5.8.7 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/emqx:5.8.7
+azul/zulu-openjdk:17-jre registry.cn-hangzhou.aliyuncs.com/xiaolanbai/zulu-openjdk:17-jre
