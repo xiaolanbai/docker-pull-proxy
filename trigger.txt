@@ -1,1 +1,1 @@
-azul/zulu-openjdk:17-jre registry.cn-hangzhou.aliyuncs.com/xiaolanbai/zulu-openjdk:17-jre
+livekit/egress:v1.9.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-egress:v1.9.0
