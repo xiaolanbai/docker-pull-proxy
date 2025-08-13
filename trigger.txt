@@ -1,1 +1,1 @@
-redis:7-alpine registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:7-alpine
+livekit/caddyl4:v2.6.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-caddyl4:v2.6.2
