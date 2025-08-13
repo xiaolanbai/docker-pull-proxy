@@ -1,1 +1,1 @@
-livekit/egress:v1.9.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-egress:v1.9.0
+redis:7-alpine registry.cn-hangzhou.aliyuncs.com/xiaolanbai/redis:7-alpine
