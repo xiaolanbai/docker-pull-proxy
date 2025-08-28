@@ -1,1 +1,1 @@
-livekit/caddyl4:v2.6.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-caddyl4:v2.6.2
+mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/mysql:8.0.36
