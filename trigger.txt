@@ -1,1 +1,1 @@
-mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/mysql:8.0.36
+node:18.20.8 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/node:18.20.8
