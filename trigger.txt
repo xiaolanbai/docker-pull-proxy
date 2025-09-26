@@ -1,1 +1,1 @@
-python:3.12.7-slim registry.cn-hangzhou.aliyuncs.com/xiaolanbai/python:3.12.7-slim
+ultralytics/ultralytics:8.3.203-cpu registry.cn-hangzhou.aliyuncs.com/xiaolanbai/ultralytics:8.3.203-cpu
