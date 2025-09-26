@@ -1,1 +1,1 @@
-node:18.20.8 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/node:18.20.8
+python:3.12.7-slim registry.cn-hangzhou.aliyuncs.com/xiaolanbai/python:3.12.7-slim
