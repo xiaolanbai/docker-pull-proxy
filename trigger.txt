@@ -1,2 +1,1 @@
-python:3.12-slim registry.cn-hangzhou.aliyuncs.com/xiaolanbai/python:3.12-slim
-postgres:13 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/postgres:13
+ultralytics/ultralytics:8.3.231-cpu registry.cn-hangzhou.aliyuncs.com/xiaolanbai/ultralytics:8.3.231-cpu
