@@ -1,1 +1,1 @@
-ultralytics/ultralytics:8.3.231-cpu registry.cn-hangzhou.aliyuncs.com/xiaolanbai/ultralytics:8.3.231-cpu
+fatedier/frps:v0.68.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/fatedier-frps:v0.68.0
