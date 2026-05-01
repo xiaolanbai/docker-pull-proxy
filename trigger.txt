@@ -1,1 +1,1 @@
-fatedier/frps:v0.68.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/fatedier-frps:v0.68.0
+node:22.22.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/node:22.22.2
