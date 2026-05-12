@@ -1,1 +1,1 @@
-node:22.22.2 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/node:22.22.2
+livekit/ingress:v1.4.3 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-ingress:v1.4.3
