@@ -1,1 +1,1 @@
-livekit/ingress:v1.4.3 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/livekit-ingress:v1.4.3
+nginx:1.31.0 registry.cn-hangzhou.aliyuncs.com/xiaolanbai/nginx:1.31.0
